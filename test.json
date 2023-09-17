@@ -1,4 +1,5 @@
-{
+[
+      {
       "created_at": "Thu Apr 06 15:24:15 +0000 2017",
       "id_str": "1850006245121695744",
       "text": "Train people well enough so they can leave, treat them well enough so they don't want to. —@richardbranson",
@@ -25,3 +26,4 @@
         "user_mentions": []
       }
     }
+]
