@@ -1,112 +1,27 @@
-[
-    {
-    "id" : "149715690143449899009",
-    "objectType" : "activity",
-    "actor" : {
-        "objectType" : "person",
-        "id" : "10243188921458",
-        "link" : "http://www.twitter.com/losebabyweight1",
-        "displayName" : "losebabyweight",
-        "postedTime" : "2010-09-09T22:40:10.000Z",
-        "image" : "https://pbs.twimg.com/profile_images/522696965503455233/WfF2aJ7N_normal.png",
-        "summary" : "http://www.losebabyweight.com.au offers mums safe and proven plans to lose weight. Lose an average of 1kg a week.",
-        "links" : [ 
-            {
-                "href" : "http://www.losebabyweight.com.au",
-                "rel" : "me"
+{
+      "created_at": "Thu Apr 06 15:24:15 +0000 2017",
+      "id_str": "1850006245121695744",
+      "text": "Train people well enough so they can leave, treat them well enough so they don't want to. —@richardbranson",
+      "user": {
+        "id": 224499494501,
+        "name": "user 01",
+        "screen_name": "Twitter User",
+        "location": "Internet",
+        "url": "user URL",
+        "description": "user description"
+      },
+      "place": {},
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "twt url sample",
+            "unwound": {
+              "url": "url sample",
+              "title": "web page title"
             }
+          }
         ],
-        "friendsCount" : 218,
-        "followersCount" : 1960,
-        "listedCount" : 17,
-        "statusesCount" : 14439,
-        "twitterTimeZone" : "Sydney",
-        "verified" : false,
-        "utcOffset" : "39600",
-        "preferredUsername" : "losebabyweight1",
-        "languages" : [ 
-            "en"
-        ],
-        "location" : {
-            "objectType" : "place",
-            "displayName" : "Australia"
-        },
-        "favoritesCount" : 0
-    },
-    "verb" : "post",
-    "postedTime" : "2016-04-01T00:00:01.000Z",
-    "generator" : {
-        "displayName" : "Facebook",
-        "link" : "http://www.facebook.com/twitter"
-    },
-    "provider" : {
-        "objectType" : "service",
-        "displayName" : "Twitter",
-        "link" : "http://www.twitter.com"
-    },
-    "link" : "http://twitter.com/losebabyweight1/statuses/715690143449899009",
-    "text" : "CONGRATULATIONS Suzie Walker on both your beautiful little man and your FANTASTIC commitment and hard work. You... https://t.co/m4QLVq0BTr",
-    "object" : {
-        "objectType" : "note",
-        "id" : "1345715690143449899009",
-        "summary" : "CONGRATULATIONS Suzie Walker on both your beautiful little man and your FANTASTIC commitment and hard work. You... https://t.co/m4QLVq0BTr",
-        "link" : "http://twitter.com/losebabyweight1/statuses/715690143449899009",
-        "postedTime" : "2016-04-01T00:00:01.000Z"
-    },
-    "favoritesCount" : 0,
-    "twitter_entities" : {
-        "hashtags" : [],
-        "urls" : [ 
-            {
-                "url" : "https://t.co/m4QLVq0BTr",
-                "expanded_url" : "http://fb.me/WUTD9TnQ",
-                "display_url" : "fb.me/WUTD9TnQ",
-                "indices" : [ 
-                    115, 
-                    138
-                ]
-            }
-        ],
-        "user_mentions" : [],
-        "symbols" : []
-    },
-    "twitter_filter_level" : "low",
-    "twitter_lang" : "en",
-    "retweetCount" : 0,
-    "gnip" : {
-        "matching_rules" : [ 
-            {
-                "value" : "bio_location: \"Australia\"",
-                "tag" : null
-            }
-        ],
-        "urls" : [ 
-            {
-                "url" : "https://t.co/m4QLVq0BTr",
-                "expanded_url" : "https://www.facebook.com/photo.php?fbid=1257229527624685",
-                "expanded_status" : 403
-            }
-        ],
-        "klout_score" : 44,
-        "language" : {
-            "value" : "en"
-        },
-        "profileLocations" : [ 
-            {
-                "objectType" : "place",
-                "geo" : {
-                    "type" : "point",
-                    "coordinates" : [ 
-                        135.0, 
-                        -25.0
-                    ]
-                },
-                "address" : {
-                    "country" : "Australia",
-                    "countryCode" : "AU"
-                },
-                "displayName" : "Australia"
-            }]
+        "user_mentions": []
+      }
     }
-}
-]
